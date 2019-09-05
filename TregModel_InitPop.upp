@@ -2,4 +2,4 @@ division = Proliferation ;
 $ExtIL2 u=  $ProdIL2*(1-(1-p[(IL2) = (1)]) * (1-p[(IL2) = (1)])*(1-p[(IL2) = (1)])*(1-p[(IL2) = (1)])*(1-p[(IL2) = (1)])*(1-p[(IL2) = (1)]));
 $ExtTGFB u= $ProdTGFB*(1-(1-p[(TGFB) = (1)])*(1-p[(TGFB) = (1)])*(1-p[(TGFB) = (1)])*(1-p[(TGFB) = (1)]));
 steps = 150;
-MaBoSS = ./MaBoSS
+MaBoSS = MaBoSS
